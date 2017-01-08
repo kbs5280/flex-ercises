@@ -9,7 +9,7 @@ So, you're feeling good about Ruby basics...
 
 ##### Welcome to Ruby Flex-ercises!
 
-Ruby Flex-ercises is Ruby objects and methods code exercise suite including exercises using enumerables, arrays, and hashes.
+Ruby Flex-ercises is Ruby objects and methods coding exercise suite including exercises using more advanced enumerables, arrays, and hashes.
 
 clone this repo: `git@github.com:kbs5280/flex-ercises.git`
 
