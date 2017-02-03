@@ -1,6 +1,8 @@
 # Ruby Flex-ercises
 Flex your coding muscles
 
+NOTE: _This is a series of exercises I wrote or adapted for programming students._
+
 ------
 
 So, you're feeling good about Ruby basics...
