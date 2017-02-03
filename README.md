@@ -1,7 +1,7 @@
+NOTE: _This is a series of exercises I wrote or adapted for programming students._
+
 # Ruby Flex-ercises
 Flex your coding muscles
-
-NOTE: _This is a series of exercises I wrote or adapted for programming students._
 
 ------
 
